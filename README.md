@@ -1,2 +1,2 @@
-# anuanup
+# disease detection
 
